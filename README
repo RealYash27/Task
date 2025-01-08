@@ -1,0 +1,5 @@
+"crypto50.xlsx" is the independant excel file
+
+"crypto_data.xlsx" excel file created by Python code
+
+Python code uses coingecko api to fetch data  by using request modules, also creates excel file of it, with the analysis done by using panda library.
