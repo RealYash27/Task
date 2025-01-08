@@ -1,6 +1,7 @@
 #NOTE: Excel file named "crypto_data.xlsx" is created using this code
+#If any error persists, it maybe due to the excel file created by the code, kindly close the excel file and run the code again.
 
-#ReferExcel file "crypto50.xlsx" for real time updates
+#Refer Excel file "Top_50.xlsx" for real time updates
 #link: "https://1drv.ms/x/c/90e5df3e8cb152e0/Ef8-A4E4B5tCgsne43vbqFsBi86QU8ejDiz_ExtEy_4SnA?e=qctXoU"
 
 import requests
