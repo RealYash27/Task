@@ -1,3 +1,8 @@
+#NOTE: Excel file named "crypto_data.xlsx" is created using this code
+
+#ReferExcel file "crypto50.xlsx" for real time updates
+#link: "https://1drv.ms/x/c/90e5df3e8cb152e0/Ef8-A4E4B5tCgsne43vbqFsBi86QU8ejDiz_ExtEy_4SnA?e=qctXoU"
+
 import requests
 import pandas as pd
 import time
